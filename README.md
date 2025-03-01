@@ -1,4 +1,4 @@
-# Hi, I'm Kanika Priya! 👋  
+# Hi, I'm Kanika! 👋  
 
 💻 **Data Analyst** | 📊 **Power BI, SQL, Python**  
 🚀 Passionate about data storytelling, visualization, and AI/ML.  
