@@ -1,6 +1,6 @@
 # Hi, I'm Kanika! 👋  
 
-💻 **Data Analyst** | 📊 **Power BI, SQL, Python, SQL**  
+💻 **Data Analyst** | 📊 **Python, Power BI, SQL, Excel**  
 🚀 Passionate about data storytelling, visualization, and AI/ML.  
 📖 Currently exploring **Generative AI & Data Visualization**.  
 
