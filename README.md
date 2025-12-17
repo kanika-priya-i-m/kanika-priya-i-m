@@ -7,8 +7,3 @@ Currently, I’m learning more about Generative AI and improving my data visuali
 Skills & Tools
 
 Python | SQL | Power BI | Excel | Data Analysis & Visualization | Basic Machine Learning & Statistics
-
-Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/kanika-priya-i-m
-Email: kanikapriya833@gmail.com
